@@ -430,6 +430,13 @@
 		</site>
 	</distributionManagement>
 
+	<repositories>
+		<repository>
+			<id>egit</id>
+			<url>https://repo.eclipse.org/content/groups/releases/</url>
+		</repository>
+	</repositories>
+
 	<dependencies>
 		<dependency>
 			<groupId>net.jcip</groupId>
